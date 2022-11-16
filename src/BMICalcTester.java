@@ -2,6 +2,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import java.text.DecimalFormat;
+
 public class BMICalcTester {
 	@Test
 	public void testComputeBMI() {
